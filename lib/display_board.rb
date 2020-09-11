@@ -1,4 +1,8 @@
 def display_board 
-  "various game situations"
-end
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end 
 
