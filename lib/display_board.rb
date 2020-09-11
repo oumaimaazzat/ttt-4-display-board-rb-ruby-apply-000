@@ -1,4 +1,4 @@
 def display_board 
-  ("various game situations")
+  "various game situations"
 end
 
