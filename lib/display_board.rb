@@ -1,2 +1,2 @@
-def display_board "various game situations"
+def display_board ("various game situations")
 
